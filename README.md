@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-robot.png" alt="A warm illustrated workspace with a laptop, flowers, books, and a small robot" width="100%" />
+  <img src="./banner-robot.png" alt="A warm illustrated workspace with a laptop, flowers, books, and a small robot" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Elodie 👋</h1>
