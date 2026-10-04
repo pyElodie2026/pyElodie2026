@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-robot.png" alt="有笔记本电脑、鲜花、书籍和小机器人的暖色插画书桌" width="100%" />
+  <img src="./banner-robot.png" alt="有笔记本电脑、鲜花、书籍和小机器人的暖色插画书桌" width="100%" />
 </p>
 
 <h1 align="center">你好，我是 Elodie 👋</h1>
