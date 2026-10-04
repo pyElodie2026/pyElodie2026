@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner-robot.png" alt="A warm illustrated workspace with a laptop, flowers, books, and a small robot" width="100%" />
+</p>
 
-<!--
-**pyElodie2026/pyElodie2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Elodie 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Robot Control · Vision-Language-Action (VLA) Models</strong><br />
+  Second-year master's student in Electronic Science and Technology<br />
+  Southern University of Science and Technology (SUSTech)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="./README.md">🌐 English</a> ·
+  <a href="./README.zh-CN.md">🌐 中文</a>
+</p>
